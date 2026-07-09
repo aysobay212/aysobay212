@@ -1,6 +1,6 @@
-# Hi, I'm Ayden 👋
+# hello !!
 
-3rd year Computer Science + Mathematics student at Monash University.
+I'm Ayden, a 3rd year Computer Science + Mathematics student at Monash University.
 
 Interested in
 
