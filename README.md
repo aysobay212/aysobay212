@@ -23,11 +23,7 @@ Tech
 
 Python • Java • TypeScript • React • FastAPI • Docker • PostgreSQL • Git
 
-Reach me
-
-Website
-LinkedIn
-Email
+Reach me via discord @aysob_ay212
 <!--
 **aysobay212/aysobay212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
