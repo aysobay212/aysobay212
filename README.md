@@ -4,7 +4,7 @@ I'm Ayden, a 3rd year Computer Science + Mathematics student at Monash Universit
 
 Interested in
 
-• Distributed Systems
+• Persuasive computing
 • AI Engineering
 • Backend Infrastructure
 • High Performance Computing
@@ -17,11 +17,12 @@ Currently
 
 Featured Projects
 
-→ yes i will update this i promise
+→ random fourier features kernel approximation
+→ leetcode and codeforces progression
 
 Tech
 
-Python • Java • TypeScript • React • FastAPI • Docker • PostgreSQL • Git
+C++ • Python • Java • TypeScript • React • FastAPI • Docker • PostgreSQL • Git
 
 Reach me via discord @aysob_ay212
 <!--
