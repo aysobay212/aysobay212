@@ -3,7 +3,6 @@
 I'm Ayden, a 3rd year Computer Science + Mathematics student at Monash University.
   
   <br>
-  <br>
 Interested in
 
 • Persuasive computing
@@ -13,7 +12,7 @@ Interested in
 • Backend Infrastructure
 
 • High Performance Computing
-  <br>
+
   <br>
   
 Currently
