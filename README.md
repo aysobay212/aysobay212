@@ -3,6 +3,7 @@
 I'm Ayden, a 3rd year Computer Science + Mathematics student at Monash University.
 
 
+
 Interested in
 
 • Persuasive computing
@@ -14,6 +15,7 @@ Interested in
 • High Performance Computing
 
 
+
 Currently
 
 🔨 Building ...
@@ -23,11 +25,13 @@ Currently
 🧠 Reading ...
 
 
+
 Featured Projects
 
 → random fourier features kernel approximation
 
 → leetcode and codeforces progression
+
 
 
 Tech
