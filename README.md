@@ -18,6 +18,7 @@ Currently
 Featured Projects
 
 → random fourier features kernel approximation
+
 → leetcode and codeforces progression
 
 Tech
