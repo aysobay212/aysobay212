@@ -7,11 +7,7 @@ Interested in
 
 • Persuasive computing
 
-• AI Engineering
-
-• Backend Infrastructure
-
-• High Performance Computing
+• Optimisation
 
   <br>
   
